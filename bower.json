@@ -1,0 +1,18 @@
+{
+  "name": "requirejs-tpl",
+  "version": "1.0.0",
+  "homepage": "https://github.com/melanke/requirejs-tpl",
+  "authors": [
+    "ZeeAgency"
+  ],
+  "description": "RequireJS Template Plugin",
+  "main": "tpl.js",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
